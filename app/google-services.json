@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280700710200",
+    "project_id": "journalapp-da514",
+    "storage_bucket": "journalapp-da514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280700710200:android:d36177421d8f53774be5cd",
+        "android_client_info": {
+          "package_name": "com.jsquaredstudios.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280700710200-uolsuho6lalotead1rujp0ao4kfrghk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc1s_TRd7u88LJ7ef81XpxWSJfTvTBXYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280700710200-uolsuho6lalotead1rujp0ao4kfrghk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
